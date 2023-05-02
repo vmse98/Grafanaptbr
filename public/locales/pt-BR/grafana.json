@@ -1,0 +1,639 @@
+{
+  "_comment": "Não edite manualmente este arquivo ou atualize essas frases de origem no Crowdin. A fonte da verdade para ‘strings’ em inglês está no código-fonte",
+  "clipboard-button": {
+    "inline-toast": {
+      "success": "Copiado"
+    }
+  },
+  "command-palette": {
+    "action": {
+      "change-theme": "Mudar tema...",
+      "dark-theme": "Escuro",
+      "light-theme": "Claro"
+    },
+    "search-box": {
+      "placeholder": "Pesquise ou pule para..."
+    },
+    "section": {
+      "actions": "Ações",
+      "dashboard-search-results": "Painéis",
+      "folder-search-results": "Pastas",
+      "pages": "Páginas",
+      "preferences": "Preferências",
+      "recent-dashboards": "Painéis recentes"
+    }
+  },
+  "common": {
+    "locale": {
+      "default": "Padrão"
+    },
+    "save": "Salvar"
+  },
+  "dashboard": {
+    "add-menu": {
+      "import": "Importar da biblioteca",
+      "paste-panel": "Colar painel",
+      "row": "Linha",
+      "visualization": "Visualização"
+    },
+    "empty": {
+      "add-import-body": "Importar visualizações que são compartilhadas com outros painéis.",
+      "add-import-button": "Importar painel de biblioteca",
+      "add-import-header": "Importar painel",
+      "add-row-body": "Agrupe suas visualizações em seções expansíveis.",
+      "add-row-button": "Adicionar linha",
+      "add-row-header": "Adicionar linha",
+      "add-visualization-body": "Selecione uma fonte de dados e consulte e visualize seus dados com gráficos, estatísticas e tabelas ou crie listas, markdowns e outros widgets.",
+      "add-visualization-button": "Adicionar visualização",
+      "add-visualization-header": "Comece seu novo painel adicionando uma visualização"
+    },
+    "inspect": {
+      "data-tab": "Dados",
+      "error-tab": "Erro",
+      "json-tab": "JSON",
+      "meta-tab": "Meta dados",
+      "query-tab": "Consulta",
+      "stats-tab": "Estatísticas",
+      "subtitle": "{{queryCount}} consultas com tempo total de consulta de {{formatted}}",
+      "title": "Inspecionar: {{panelTitle}}"
+    },
+    "inspect-data": {
+      "data-options": "Opções de dados",
+      "dataframe-aria-label": "Selecionar quadro de dados",
+      "dataframe-label": "Mostrar quadro de dados",
+      "download-csv": "Baixar CSV",
+      "download-excel-description": "Adiciona cabeçalho ao CSV para uso com o Excel",
+      "download-excel-label": "Baixar para Excel",
+      "download-logs": "Baixar logs",
+      "download-service": "Baixar gráfico de serviço",
+      "download-traces": "Baixar rastros",
+      "excel-header": "Cabeçalho do Excel",
+      "formatted": "Dados formatados",
+      "formatted-data-description": "Os dados da tabela são formatados com opções definidas nas guias Campo e Substituição.",
+      "formatted-data-label": "Dados formatados",
+      "panel-transforms": "Transformações do painel",
+      "series-to-columns": "Séries unida pelo tempo",
+      "transformation": "Séries unida pelo tempo",
+      "transformations-description": "Os dados da tabela são exibidos com as transformações definidas na guia \"Transformar\" do painel.",
+      "transformations-label": "Aplicar transformações ao painel"
+    },
+    "inspect-json": {
+      "dataframe-description": "Dados brutos sem transformações e configuração de campo aplicada. ",
+      "dataframe-label": "JSON do quadro de dados (da consulta)",
+      "panel-data-description": "O modelo bruto passou para a visualização do painel",
+      "panel-data-label": "Dados do painel",
+      "panel-json-description": "O modelo salvo no painel JSON que configura como tudo funciona.",
+      "panel-json-label": "Painel JSON",
+      "select-source": "Selecione a fonte",
+      "unknown": "Objeto desconhecido: {{show}}"
+    },
+    "inspect-meta": {
+      "no-inspector": "Nenhum inspetor de metadados"
+    },
+    "inspect-stats": {
+      "data-title": "Estatísticas da fonte de dados",
+      "data-traceids": "ID de rastreamento",
+      "processing-time": "Tempo de processamento de dados",
+      "queries": "Número de consultas",
+      "request-time": "Tempo total de solicitação",
+      "rows": "Número total de linhas",
+      "table-title": "Estatísticas"
+    },
+    "toolbar": {
+      "add": "Adicionar",
+      "add-panel": "Adicionar painel",
+      "mark-favorite": "Marcar como favorito",
+      "open-original": "Abra o painel original",
+      "playlist-next": "Ir para o próximo painel",
+      "playlist-previous": "Ir para o painel anterior",
+      "playlist-stop": "Parar lista de reprodução",
+      "refresh": "Atualizar painel",
+      "save": "Salvar painel",
+      "settings": "Configurações do painel",
+      "share": "Compartilhar  dashboard or painel",
+      "unmark-favorite": "Desmarcar como favorito"
+    }
+  },
+  "datasource-onboarding": {
+    "contact-admin": "Entre em contato com seu administrador para configurar as fontes de dados.",
+    "explanation": "Para visualizar seus dados, você precisará conectá-los primeiro.",
+    "new-dashboard": "Novo painel",
+    "preferred": "Conecte sua fonte de dados preferida:",
+    "sampleData": "Ou configure um novo painel com dados de amostra",
+    "viewAll": "Ver tudo",
+    "welcome": "Bem-vindo aos painéis do Grafana!"
+  },
+  "folder-picker": {
+    "loading": "Carregando pastas..."
+  },
+  "grafana-ui": {
+    "segment-async": {
+      "error": "Falha ao carregar as opções",
+      "loading": "Carregando opções...",
+      "no-options": "Nenhuma opção encontrada"
+    }
+  },
+  "library-panel": {
+    "add-modal": {
+      "cancel": "Cancelar",
+      "create": "Criar painel de biblioteca",
+      "error": "O painel da biblioteca com este nome já existe",
+      "folder": "Salvar na pasta",
+      "folder-description": "As permissões do painel da biblioteca são derivadas das permissões da pasta",
+      "name": "Nome do painel da biblioteca"
+    },
+    "add-widget": {
+      "title": "Adicionar painel a partir da biblioteca"
+    }
+  },
+  "library-panels": {
+    "save": {
+      "error": "Erro ao salvar o painel da biblioteca:\"{{errorMsg}}\"",
+      "success": "Painel da biblioteca salvo"
+    }
+  },
+  "nav": {
+    "admin": {
+      "subtitle": "Gerenciar configurações de todo o servidor e acesso a recursos como organizações, usuários e licenças",
+      "title": "Administrador do servidor"
+    },
+    "alerting": {
+      "subtitle": "Saiba mais sobre os problemas em seus sistemas momentos após eles ocorrerem",
+      "title": "Alerta"
+    },
+    "alerting-admin": {
+      "title": "Administrador"
+    },
+    "alerting-am-routes": {
+      "subtitle": "Determinar como os alertas são encaminhados para os pontos de contato",
+      "title": "Políticas de notificação"
+    },
+    "alerting-channels": {
+      "title": "canais de notificação"
+    },
+    "alerting-groups": {
+      "subtitle": "Ver alertas agrupados de uma instância do gerenciador de alertas",
+      "title": "Grupos"
+    },
+    "alerting-home": {
+      "title": "Inicial"
+    },
+    "alerting-legacy": {
+      "title": "Alertas (legado)"
+    },
+    "alerting-list": {
+      "subtitle": "Regras que determinam se um alerta será disparado",
+      "title": "regras de alerta"
+    },
+    "alerting-receivers": {
+      "subtitle": "Escolha como notificar seus pontos de contato quando uma instância de alerta disparar",
+      "title": "Pontos de contato"
+    },
+    "alerting-silences": {
+      "subtitle": "Interrompa as notificações de uma ou mais regras de alerta",
+      "title": "silêncios"
+    },
+    "alerts-and-incidents": {
+      "subtitle": "Aplicativos de gerenciamento de alertas e incidentes",
+      "title": "Alertas & GAEI"
+    },
+    "api-keys": {
+      "subtitle": "Gerencie e crie chaves de API que são usadas para interagir com as APIs HTTP do Grafana",
+      "title": "chaves de API"
+    },
+    "apps": {
+      "subtitle": "Plug-ins de aplicativos que ampliam a experiência do Grafana",
+      "title": "Aplicativos"
+    },
+    "config": {
+      "title": "Administração"
+    },
+    "correlations": {
+      "subtitle": "Adicionar e configurar correlações",
+      "title": "Correlações"
+    },
+    "create": {
+      "title": "Criar"
+    },
+    "create-alert": {
+      "title": "Criar regra de alerta"
+    },
+    "create-dashboard": {
+      "title": "Painel"
+    },
+    "create-folder": {
+      "title": "Pasta"
+    },
+    "create-import": {
+      "title": "Importar painel"
+    },
+    "dashboards": {
+      "subtitle": "Crie e gerencie painéis para visualizar seus dados",
+      "title": "Painéis"
+    },
+    "datasources": {
+      "subtitle": "Adicionar e configurar fontes de dados",
+      "title": "Fontes de dados"
+    },
+    "explore": {
+      "title": "Explorar"
+    },
+    "global-orgs": {
+      "subtitle": "Instâncias isoladas do Grafana rodando no mesmo servidor",
+      "title": "Organizações"
+    },
+    "global-users": {
+      "subtitle": "Gerenciar usuários no Grafana",
+      "title": "Usuários"
+    },
+    "help": {
+      "title": "Ajuda"
+    },
+    "help/community": "Comunidade",
+    "help/documentation": "Documentação",
+    "help/keyboard-shortcuts": "Atalhos do teclado",
+    "help/support": "Suporte",
+    "home": {
+      "title": "Inicial"
+    },
+    "library-panels": {
+      "subtitle": "Painéis reutilizáveis ​​que podem ser adicionados a vários painéis",
+      "title": "Painéis da biblioteca"
+    },
+    "manage-folder": {
+      "subtitle": "Gerenciar painéis de pastas e permissões"
+    },
+    "monitoring": {
+      "subtitle": "Aplicativos de monitoramento e infraestrutura",
+      "title": "Observabilidade"
+    },
+    "new": {
+      "title": "Novo"
+    },
+    "new-dashboard": {
+      "title": "Novo painel"
+    },
+    "new-folder": {
+      "title": "Nova pasta"
+    },
+    "org-settings": {
+      "subtitle": "Gerenciar preferências em uma organização",
+      "title": "Preferências padrão"
+    },
+    "playlists": {
+      "subtitle": "Grupos de painéis que são exibidos em uma sequência",
+      "title": "Listas de reprodução"
+    },
+    "plugins": {
+      "subtitle": "Estenda a experiência do Grafana com plugins",
+      "title": "Complementos"
+    },
+    "profile/notifications": {
+      "title": "Histórico de notificações"
+    },
+    "profile/password": {
+      "title": "Alterar a senha"
+    },
+    "profile/settings": {
+      "title": "Perfil"
+    },
+    "public": {
+      "title": "Painéis públicos"
+    },
+    "scenes": {
+      "title": "Cenas"
+    },
+    "search": {
+      "placeholderCommandPalette": "Pesquise ou pule para..."
+    },
+    "search-dashboards": {
+      "title": "Pesquisar Painéis"
+    },
+    "server-settings": {
+      "subtitle": "Veja as configurações definidas em sua configuração do Grafana",
+      "title": "Configurações"
+    },
+    "service-accounts": {
+      "subtitle": "Use contas de serviço para executar cargas de trabalho automatizadas no Grafana",
+      "title": "Contas de serviço"
+    },
+    "sign-out": {
+      "title": "Sair"
+    },
+    "snapshots": {
+      "subtitle": "Representações pontuais, interativas e publicamente disponíveis de painéis",
+      "title": "Instantâneos"
+    },
+    "starred": {
+      "title": "Estrelados"
+    },
+    "starred-empty": {
+      "title": "Seus painéis com estrela aparecerão aqui"
+    },
+    "storage": {
+      "subtitle": "Gerenciar armazenamento de arquivos",
+      "title": "Armazenar"
+    },
+    "support-bundles": {
+      "subtitle": "Baixar pacotes de suporte",
+      "title": "Pacotes de suporte"
+    },
+    "teams": {
+      "subtitle": "Grupos de usuários que têm necessidades comuns de painel e permissão",
+      "title": "Equipes"
+    },
+    "upgrading": {
+      "title": "Estatísticas e licença"
+    },
+    "users": {
+      "subtitle": "Convide e atribua funções aos usuários",
+      "title": "Usuários"
+    }
+  },
+  "navigation": {
+    "kiosk": {
+      "tv-alert": "Pressione ESC para sair do modo quiosque"
+    },
+    "toolbar": {
+      "enable-kiosk": "Ativar modo quiosque",
+      "toggle-menu": "Alternar menu",
+      "toggle-search-bar": "Alternar barra de pesquisa superior"
+    }
+  },
+  "news": {
+    "title": "Últimas do blog"
+  },
+  "notifications": {
+    "starred-dashboard": "Painéis com estrela",
+    "unstarred-dashboard": "Painéis sem estrela"
+  },
+  "panel": {
+    "header-menu": {
+      "copy": "Copiar",
+      "create-library-panel": "Criar painel de biblioteca",
+      "duplicate": "Duplicar",
+      "edit": "Editar",
+      "explore": "Explorar",
+      "get-help": "Obter ajuda",
+      "hide-legend": "Ocultar legenda",
+      "inspect": "Inspecionar",
+      "inspect-data": "Dados",
+      "inspect-json": "Painel JSON",
+      "more": "Mais...",
+      "query": "Consulta",
+      "remove": "Remover",
+      "share": "Compartilhar",
+      "show-legend": "Mostrar legenda",
+      "unlink-library-panel": "Desvincular painel da biblioteca",
+      "view": "Visualizar"
+    }
+  },
+  "refresh-picker": {
+    "aria-label": {
+      "choose-interval": "Atualização automática desativada. Escolha o intervalo de tempo de atualização",
+      "duration-selected": "Escolha o intervalo de tempo de atualização com o intervalo atual {{durationAriaLabel}} selecionado"
+    },
+    "live-option": {
+      "aria-label": "Ative a transmissão ao vivo",
+      "label": "Ao vivo"
+    },
+    "off-option": {
+      "aria-label": "Desative a atualização automática",
+      "label": "Desligado"
+    },
+    "select-button": {
+      "auto-refresh": "Definir intervalo de atualização automática"
+    }
+  },
+  "search": {
+    "actions": {
+      "include-panels": "Incluir painéis",
+      "remove-datasource-filter": "Fonte de dados: {{datasource}}",
+      "sort-placeholder": "Organizar",
+      "starred": "Estrelados",
+      "view-as-folders": "Ver por pastas",
+      "view-as-list": "Ver como lista"
+    },
+    "dashboard-actions": {
+      "import": "Importar",
+      "new": "Novo",
+      "new-dashboard": "Novo Painel",
+      "new-folder": "Nova pasta"
+    },
+    "folder-view": {
+      "go-to-folder": "Ir para a pasta",
+      "select-folder": "Selecione a pasta"
+    },
+    "result-kind": {
+      "dashboard": "Painel",
+      "folder": "Pasta",
+      "panel": "Painel"
+    },
+    "results-table": {
+      "datasource-header": "Fonte de dados",
+      "location-header": "Localização",
+      "name-header": "Nome",
+      "tags-header": "Etiqueta",
+      "type-dashboard": "Painel",
+      "type-folder": "Pasta",
+      "type-header": "Tipo"
+    },
+    "search-input": {
+      "include-panels-placeholder": "Pesquisar painéis e painéis",
+      "placeholder": "Pesquisar painéis"
+    }
+  },
+  "share-modal": {
+    "dashboard": {
+      "title": "Compartilhar"
+    },
+    "embed": {
+      "copy": "Copiar para área de transferência",
+      "html": "Incorporar HTML",
+      "html-description": "O código HTML abaixo pode ser colado e incluído em outra página da web. A menos que o acesso anônimo esteja ativado, o usuário que visualiza essa página precisa estar conectado ao Grafana para que o gráfico seja carregado.",
+      "info": "Gere HTML para incorporar um iframe com este painel.",
+      "time-range": "Intervalo de tempo atual",
+      "time-range-description": "Transforma o intervalo de tempo relativo atual em um intervalo de tempo absoluto"
+    },
+    "export": {
+      "cancel-button": "Cancelar",
+      "info-text": "Exporte este painel.",
+      "save-button": "Salvar em arquivo",
+      "share-default-label": "Exportar com valores padrão removidos",
+      "share-externally-label": "Exportar para compartilhar externamente",
+      "view-button": "Ver JSON"
+    },
+    "library": {
+      "info": "Criar painel de biblioteca."
+    },
+    "link": {
+      "copy-link-button": "Copiar",
+      "info-text": "Crie um link direto para este dashboard ou painel, customizado com as opções abaixo.",
+      "link-url": "URL do link",
+      "render-alert": "Plug-in do renderizador de imagem não instalado",
+      "render-instructions": "Para renderizar uma imagem de painel, você deve instalar o&nbsp;<1>plug-in do renderizador de imagens Grafana</1>. Entre em contato com o administrador do Grafana para instalar o plug-in.",
+      "rendered-image": "Imagem renderizada de link direto",
+      "save-alert": "O painel não foi salvo",
+      "save-dashboard": "Para renderizar uma imagem de painel, primeiro você deve salvar o painel.",
+      "shorten-url": "Encurtar URL",
+      "time-range-description": "Transforma o intervalo de tempo relativo atual em um intervalo de tempo absoluto",
+      "time-range-label": "Travar intervalo de tempo"
+    },
+    "panel": {
+      "title": "Compartilhar Painel"
+    },
+    "snapshot": {
+      "cancel-button": "Cancelar",
+      "copy-link-button": "Copiar",
+      "delete-button": "Excluir instantâneo.",
+      "deleted-message": "O instantâneo foi excluído. Se você já o acessou uma vez, pode levar até uma hora para que ele seja removido dos caches do navegador ou CDN.",
+      "expire": "Expirar",
+      "expire-day": "1 Dia",
+      "expire-hour": "1 Hora",
+      "expire-never": "Nunca",
+      "expire-week": "7 Dias",
+      "info-text-1": "Um instantâneo é uma maneira instantânea de compartilhar publicamente um painel interativo. Quando criados, removemos dados confidenciais como consultas (métrica, modelo e anotação) e links de painel, deixando apenas os dados de métricas visíveis e nomes de séries incorporados em seu painel.",
+      "info-text-2": "Lembre-se de que seu instantâneo <1>pode ser visualizado por qualquer pessoa</1> que tenha o link e possa acessar o URL. Compartilhe com sabedoria.",
+      "local-button": "Instantâneo local",
+      "mistake-message": "Você cometeu um erro?",
+      "name": "Nome do instantâneo",
+      "timeout": "Tempo limite (seconds)",
+      "timeout-description": "Pode ser necessário configurar o valor de tempo limite se demorar muito para coletar as métricas do painel.",
+      "url-label": "URL do instantâneo"
+    },
+    "tab-title": {
+      "embed": "Embutir",
+      "export": "Exportar",
+      "library-panel": "Painel da biblioteca",
+      "link": "Link",
+      "snapshot": "Instantâneo"
+    },
+    "theme-picker": {
+      "current": "Atual",
+      "dark": "Escuro",
+      "field-name": "Tema",
+      "light": "Claro"
+    },
+    "view-json": {
+      "copy-button": "Copiar para área de transferência"
+    }
+  },
+  "shared-dashboard": {
+    "fields": {
+      "timezone-label": "Fuso horário"
+    }
+  },
+  "shared-preferences": {
+    "fields": {
+      "home-dashboard-label": "Painel inicial",
+      "home-dashboard-placeholder": "Painel padrão",
+      "locale-label": "Linguagem",
+      "locale-placeholder": "Escolha o seu idioma",
+      "theme-label": "Tema da IU",
+      "week-start-label": "início da semana"
+    },
+    "theme": {
+      "dark-label": "Escuro",
+      "default-label": "Padrão",
+      "light-label": "Claro",
+      "system-label": "Sistema"
+    },
+    "title": "Preferências"
+  },
+  "tag-filter": {
+    "loading": "Carregando...",
+    "no-tags": "Nenhuma etiqueta encontrada",
+    "placeholder": "Filtrar por etiqueta"
+  },
+  "time-picker": {
+    "absolute": {
+      "recent-title": "Intervalos absolutos usados ​​recentemente",
+      "title": "Intervalo de tempo absoluto"
+    },
+    "calendar": {
+      "apply-button": "Aplicar intervalo de tempo",
+      "cancel-button": "Cancelar",
+      "select-time": "Selecione um intervalo de tempo"
+    },
+    "content": {
+      "empty-recent-list": "<0><0>Parece que você não usou este seletor de tempo antes. Assim que você inserir alguns intervalos de tempo, os intervalos usados ​​recentemente aparecerão aqui.</0></0><1><0>Leia a documentação</0><1> para saber mais sobre como inserir um horário personalizado intervalos.</1></1>",
+      "filter-placeholder": "Pesquisar intervalos rápidos"
+    },
+    "footer": {
+      "change-settings-button": "Alterar configurações de tempo",
+      "fiscal-year-option": "Ano fiscal",
+      "fiscal-year-start": "Mês de início do ano fiscal",
+      "time-zone-option": "Fuso horário",
+      "time-zone-selection": "Seleção de fuso horário"
+    },
+    "range-content": {
+      "apply-button": "Aplicar intervalo de tempo",
+      "default-error": "Insira uma data passada ou \"now\"",
+      "fiscal-year": "Ano fiscal",
+      "from-input": "De",
+      "range-error": "\"From\" não pode ser depois \"To\"",
+      "to-input": "Para"
+    },
+    "range-picker": {
+      "backwards-time-aria-label": "Mover intervalo de tempo para trás",
+      "current-time-selected": "Intervalo de tempo selecionado:{{currentTimeRange}}",
+      "forwards-time-aria-label": "Mover intervalo de tempo para frente",
+      "to": "Para",
+      "zoom-out-button": "Reduzir o intervalo de tempo",
+      "zoom-out-tooltip": "Diminuir intervalo de tempo <1></1> CTRL+Z"
+    },
+    "time-range": {
+      "aria-role": "Seleção de intervalo de tempo",
+      "default-title": "intervalos de tempo",
+      "example-title": "Exemplos de intervalos de tempo",
+      "specify": "Especifique o intervalo de tempo <1></1>"
+    },
+    "zone": {
+      "select-aria-label": "Seletor de fuso horário",
+      "select-search-input": "Escreva para pesquisar (country, city, abbreviation)"
+    }
+  },
+  "user-orgs": {
+    "current-org-button": "Atual",
+    "name-column": "Nome",
+    "role-column": "Atribuição",
+    "select-org-button": "Selecione a organização",
+    "title": "Organizações"
+  },
+  "user-profile": {
+    "fields": {
+      "email-error": "O e-mail é obrigatório",
+      "email-label": "E-mail",
+      "name-error": "O nome é obrigatório",
+      "name-label": "Nome",
+      "username-label": "Nome de usuário"
+    }
+  },
+  "user-session": {
+    "browser-column": "Navegador e SO",
+    "created-at-column": "Logado",
+    "ip-column": "Endereço de IP",
+    "revoke": "Revogar sessão do usuário",
+    "seen-at-column": "Visto pela última vez"
+  },
+  "user-sessions": {
+    "loading": "Carregando sessões..."
+  },
+  "variable": {
+    "adhoc": {
+      "placeholder": "Selecione o valor"
+    },
+    "dropdown": {
+      "placeholder": "Insira o valor da variável"
+    },
+    "picker": {
+      "link-all": "Todos",
+      "option-all": "Todos",
+      "option-selected-values": "Selecionados",
+      "option-tooltip": "Limpar seleções"
+    },
+    "textbox": {
+      "placeholder": "Insira o valor da variável"
+    }
+  }
+}
