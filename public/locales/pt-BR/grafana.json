@@ -43,7 +43,7 @@
       "add-row-body": "Agrupe suas visualizações em seções expansíveis.",
       "add-row-button": "Adicionar linha",
       "add-row-header": "Adicionar linha",
-      "add-visualization-body": "Selecione uma fonte de dados e consulte e visualize seus dados com gráficos, estatísticas e tabelas ou crie listas, markdowns e outros widgets.",
+      "add-visualization-body": "Selecione uma fonte de dados e consulte e visualize seus dados com gráficos, estatísticas e tabelas ou crie listas, \"markdowns\" e outros \"widgets\".",
       "add-visualization-button": "Adicionar visualização",
       "add-visualization-header": "Comece seu novo painel adicionando uma visualização"
     },
@@ -54,7 +54,7 @@
       "meta-tab": "Meta dados",
       "query-tab": "Consulta",
       "stats-tab": "Estatísticas",
-      "subtitle": "{{queryCount}} consultas com tempo total de consulta de {{formatted}}",
+      "subtitle": "{{queryCount}} Consultas com tempo total de consulta de {{formatted}}",
       "title": "Inspecionar: {{panelTitle}}"
     },
     "inspect-data": {
@@ -110,7 +110,7 @@
       "refresh": "Atualizar painel",
       "save": "Salvar painel",
       "settings": "Configurações do painel",
-      "share": "Compartilhar  dashboard or painel",
+      "share": "Compartilhar dashboard ou painel",
       "unmark-favorite": "Desmarcar como favorito"
     }
   },
@@ -169,7 +169,7 @@
       "title": "Políticas de notificação"
     },
     "alerting-channels": {
-      "title": "canais de notificação"
+      "title": "Canais de notificação"
     },
     "alerting-groups": {
       "subtitle": "Ver alertas agrupados de uma instância do gerenciador de alertas",
@@ -183,7 +183,7 @@
     },
     "alerting-list": {
       "subtitle": "Regras que determinam se um alerta será disparado",
-      "title": "regras de alerta"
+      "title": "Regras de alerta"
     },
     "alerting-receivers": {
       "subtitle": "Escolha como notificar seus pontos de contato quando uma instância de alerta disparar",
@@ -198,11 +198,11 @@
       "title": "Alertas & GAEI"
     },
     "api-keys": {
-      "subtitle": "Gerencie e crie chaves de API que são usadas para interagir com as APIs HTTP do Grafana",
-      "title": "chaves de API"
+      "subtitle": "Gerencie e crie chaves de API usadas para interagir com as APIs HTTP do Grafana",
+      "title": "Chaves de API"
     },
     "apps": {
-      "subtitle": "Plug-ins de aplicativos que ampliam a experiência do Grafana",
+      "subtitle": "Plugins de aplicativos que ampliam a experiência do Grafana",
       "title": "Aplicativos"
     },
     "config": {
@@ -281,7 +281,7 @@
       "title": "Preferências padrão"
     },
     "playlists": {
-      "subtitle": "Grupos de painéis que são exibidos em uma sequência",
+      "subtitle": "Grupos de painéis exibidos em uma sequência",
       "title": "Listas de reprodução"
     },
     "plugins": {
@@ -339,7 +339,7 @@
       "title": "Pacotes de suporte"
     },
     "teams": {
-      "subtitle": "Grupos de usuários que têm necessidades comuns de painel e permissão",
+      "subtitle": "Grupos de usuários com necessidades comuns de painel e permissão",
       "title": "Equipes"
     },
     "upgrading": {
@@ -361,7 +361,7 @@
     }
   },
   "news": {
-    "title": "Últimas do blog"
+    "title": "Últimas do “blog”"
   },
   "notifications": {
     "starred-dashboard": "Painéis com estrela",
@@ -450,7 +450,7 @@
     "embed": {
       "copy": "Copiar para área de transferência",
       "html": "Incorporar HTML",
-      "html-description": "O código HTML abaixo pode ser colado e incluído em outra página da web. A menos que o acesso anônimo esteja ativado, o usuário que visualiza essa página precisa estar conectado ao Grafana para que o gráfico seja carregado.",
+      "html-description": "O código HTML abaixo pode ser colado e incluído em outra página da ‘web’. A menos que o acesso anônimo esteja ativado, o usuário que visualiza essa página precisa estar conectado ao Grafana para que o gráfico seja carregado.",
       "info": "Gere HTML para incorporar um iframe com este painel.",
       "time-range": "Intervalo de tempo atual",
       "time-range-description": "Transforma o intervalo de tempo relativo atual em um intervalo de tempo absoluto"
@@ -470,8 +470,8 @@
       "copy-link-button": "Copiar",
       "info-text": "Crie um link direto para este dashboard ou painel, customizado com as opções abaixo.",
       "link-url": "URL do link",
-      "render-alert": "Plug-in do renderizador de imagem não instalado",
-      "render-instructions": "Para renderizar uma imagem de painel, você deve instalar o&nbsp;<1>plug-in do renderizador de imagens Grafana</1>. Entre em contato com o administrador do Grafana para instalar o plug-in.",
+      "render-alert": "Plugin renderizador de imagem não instalado",
+      "render-instructions": "Para renderizar uma imagem de painel, você deve instalar o&nbsp;<1>plugin do renderizador de imagens Grafana</1>. Entre em contato com o administrador do Grafana para instalar o plugin.",
       "rendered-image": "Imagem renderizada de link direto",
       "save-alert": "O painel não foi salvo",
       "save-dashboard": "Para renderizar uma imagem de painel, primeiro você deve salvar o painel.",
