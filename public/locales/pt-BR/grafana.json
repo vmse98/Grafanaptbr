@@ -37,7 +37,7 @@
       "visualization": "Visualização"
     },
     "empty": {
-      "add-import-body": "Importar visualizações compartilhadas com outros painéis.",
+      "add-import-body": "Importar visualizações que são compartilhadas com outros painéis.",
       "add-import-button": "Importar painel de biblioteca",
       "add-import-header": "Importar painel",
       "add-row-body": "Agrupe suas visualizações em seções expansíveis.",
@@ -54,7 +54,7 @@
       "meta-tab": "Meta dados",
       "query-tab": "Consulta",
       "stats-tab": "Estatísticas",
-      "subtitle": "{{queryCount}} Consultas com tempo total de consulta de {{formatted}}",
+      "subtitle": "{{queryCount}} consultas com tempo total de consulta de {{formatted}}",
       "title": "Inspecionar: {{panelTitle}}"
     },
     "inspect-data": {
@@ -110,7 +110,7 @@
       "refresh": "Atualizar painel",
       "save": "Salvar painel",
       "settings": "Configurações do painel",
-      "share": "Compartilhar dashboard ou painel",
+      "share": "Compartilhar  dashboard or painel",
       "unmark-favorite": "Desmarcar como favorito"
     }
   },
@@ -169,7 +169,7 @@
       "title": "Políticas de notificação"
     },
     "alerting-channels": {
-      "title": "Canais de notificação"
+      "title": "canais de notificação"
     },
     "alerting-groups": {
       "subtitle": "Ver alertas agrupados de uma instância do gerenciador de alertas",
@@ -183,7 +183,7 @@
     },
     "alerting-list": {
       "subtitle": "Regras que determinam se um alerta será disparado",
-      "title": "Regras de alerta"
+      "title": "regras de alerta"
     },
     "alerting-receivers": {
       "subtitle": "Escolha como notificar seus pontos de contato quando uma instância de alerta disparar",
@@ -191,18 +191,18 @@
     },
     "alerting-silences": {
       "subtitle": "Interrompa as notificações de uma ou mais regras de alerta",
-      "title": "Silêncios"
+      "title": "silêncios"
     },
     "alerts-and-incidents": {
       "subtitle": "Aplicativos de gerenciamento de alertas e incidentes",
       "title": "Alertas & GAEI"
     },
     "api-keys": {
-      "subtitle": "Gerencie e crie chaves de API usadas para interagir com as APIs HTTP do Grafana",
-      "title": "Chaves de API"
+      "subtitle": "Gerencie e crie chaves de API que são usadas para interagir com as APIs HTTP do Grafana",
+      "title": "chaves de API"
     },
     "apps": {
-      "subtitle": "Plugins de aplicativos que ampliam a experiência do Grafana",
+      "subtitle": "Plug-ins de aplicativos que ampliam a experiência do Grafana",
       "title": "Aplicativos"
     },
     "config": {
@@ -281,7 +281,7 @@
       "title": "Preferências padrão"
     },
     "playlists": {
-      "subtitle": "Grupos de painéis exibidos em uma sequência",
+      "subtitle": "Grupos de painéis que são exibidos em uma sequência",
       "title": "Listas de reprodução"
     },
     "plugins": {
@@ -471,7 +471,7 @@
       "info-text": "Crie um link direto para este dashboard ou painel, customizado com as opções abaixo.",
       "link-url": "URL do link",
       "render-alert": "Plug-in do renderizador de imagem não instalado",
-      "render-instructions": "Para renderizar uma imagem de painel, você deve instalar o&nbsp;<1>plugin do renderizador de imagens Grafana</1>. Entre em contato com o administrador do Grafana para instalar o plugin.",
+      "render-instructions": "Para renderizar uma imagem de painel, você deve instalar o&nbsp;<1>plug-in do renderizador de imagens Grafana</1>. Entre em contato com o administrador do Grafana para instalar o plug-in.",
       "rendered-image": "Imagem renderizada de link direto",
       "save-alert": "O painel não foi salvo",
       "save-dashboard": "Para renderizar uma imagem de painel, primeiro você deve salvar o painel.",
@@ -495,9 +495,9 @@
       "info-text-1": "Um instantâneo é uma maneira instantânea de compartilhar publicamente um painel interativo. Quando criados, removemos dados confidenciais como consultas (métrica, modelo e anotação) e links de painel, deixando apenas os dados de métricas visíveis e nomes de séries incorporados em seu painel.",
       "info-text-2": "Lembre-se de que seu instantâneo <1>pode ser visualizado por qualquer pessoa</1> que tenha o link e possa acessar o URL. Compartilhe com sabedoria.",
       "local-button": "Instantâneo local",
-      "mistake-message": "Você cometeu um erro? ",
+      "mistake-message": "Você cometeu um erro?",
       "name": "Nome do instantâneo",
-      "timeout": "Tempo limite (segundos)",
+      "timeout": "Tempo limite (seconds)",
       "timeout-description": "Pode ser necessário configurar o valor de tempo limite se demorar muito para coletar as métricas do painel.",
       "url-label": "URL do instantâneo"
     },
@@ -590,7 +590,7 @@
     },
     "zone": {
       "select-aria-label": "Seletor de fuso horário",
-      "select-search-input": "Escreva para pesquisar (Pais, cidade, abreviação)"
+      "select-search-input": "Escreva para pesquisar (country, city, abbreviation)"
     }
   },
   "user-orgs": {
