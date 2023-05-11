@@ -518,6 +518,15 @@
       "copy-button": "Copiar al portapapeles"
     }
   },
+  "shared": {
+    "preferences": {
+      "theme": {
+        "dark-label": "",
+        "light-label": "",
+        "system-label": ""
+      }
+    }
+  },
   "shared-dashboard": {
     "fields": {
       "timezone-label": "Zona horaria"
@@ -533,10 +542,7 @@
       "week-start-label": "Inicio de la semana"
     },
     "theme": {
-      "dark-label": "Oscuro",
-      "default-label": "Por defecto",
-      "light-label": "Claro",
-      "system-label": "Sistema"
+      "default-label": "Por defecto"
     },
     "title": "Preferencias"
   },

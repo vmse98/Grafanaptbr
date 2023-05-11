@@ -518,6 +518,15 @@
       "copy-button": "Cőpy ŧő Cľįpþőäřđ"
     }
   },
+  "shared": {
+    "preferences": {
+      "theme": {
+        "dark-label": "Đäřĸ",
+        "light-label": "Ŀįģĥŧ",
+        "system-label": "Ŝyşŧęm přęƒęřęŉčę"
+      }
+    }
+  },
   "shared-dashboard": {
     "fields": {
       "timezone-label": "Ŧįmęžőŉę"
@@ -529,14 +538,11 @@
       "home-dashboard-placeholder": "Đęƒäūľŧ đäşĥþőäřđ",
       "locale-label": "Ŀäŉģūäģę",
       "locale-placeholder": "Cĥőőşę ľäŉģūäģę",
-      "theme-label": "ŮĨ Ŧĥęmę",
+      "theme-label": "Ĩŉŧęřƒäčę ŧĥęmę",
       "week-start-label": "Ŵęęĸ şŧäřŧ"
     },
     "theme": {
-      "dark-label": "Đäřĸ",
-      "default-label": "Đęƒäūľŧ",
-      "light-label": "Ŀįģĥŧ",
-      "system-label": "Ŝyşŧęm"
+      "default-label": "Đęƒäūľŧ"
     },
     "title": "Přęƒęřęŉčęş"
   },

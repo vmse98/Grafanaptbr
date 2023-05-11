@@ -1,0 +1,645 @@
+{
+  "_comment": "",
+  "clipboard-button": {
+    "inline-toast": {
+      "success": ""
+    }
+  },
+  "command-palette": {
+    "action": {
+      "change-theme": "",
+      "dark-theme": "",
+      "light-theme": ""
+    },
+    "search-box": {
+      "placeholder": ""
+    },
+    "section": {
+      "actions": "",
+      "dashboard-search-results": "",
+      "folder-search-results": "",
+      "pages": "",
+      "preferences": "",
+      "recent-dashboards": ""
+    }
+  },
+  "common": {
+    "locale": {
+      "default": ""
+    },
+    "save": ""
+  },
+  "dashboard": {
+    "add-menu": {
+      "import": "",
+      "paste-panel": "",
+      "row": "",
+      "visualization": ""
+    },
+    "empty": {
+      "add-import-body": "",
+      "add-import-button": "",
+      "add-import-header": "",
+      "add-row-body": "",
+      "add-row-button": "",
+      "add-row-header": "",
+      "add-visualization-body": "",
+      "add-visualization-button": "",
+      "add-visualization-header": ""
+    },
+    "inspect": {
+      "data-tab": "",
+      "error-tab": "",
+      "json-tab": "",
+      "meta-tab": "",
+      "query-tab": "",
+      "stats-tab": "",
+      "subtitle": "",
+      "title": ""
+    },
+    "inspect-data": {
+      "data-options": "",
+      "dataframe-aria-label": "",
+      "dataframe-label": "",
+      "download-csv": "",
+      "download-excel-description": "",
+      "download-excel-label": "",
+      "download-logs": "",
+      "download-service": "",
+      "download-traces": "",
+      "excel-header": "",
+      "formatted": "",
+      "formatted-data-description": "",
+      "formatted-data-label": "",
+      "panel-transforms": "",
+      "series-to-columns": "",
+      "transformation": "",
+      "transformations-description": "",
+      "transformations-label": ""
+    },
+    "inspect-json": {
+      "dataframe-description": "",
+      "dataframe-label": "",
+      "panel-data-description": "",
+      "panel-data-label": "",
+      "panel-json-description": "",
+      "panel-json-label": "",
+      "select-source": "",
+      "unknown": ""
+    },
+    "inspect-meta": {
+      "no-inspector": ""
+    },
+    "inspect-stats": {
+      "data-title": "",
+      "data-traceids": "",
+      "processing-time": "",
+      "queries": "",
+      "request-time": "",
+      "rows": "",
+      "table-title": ""
+    },
+    "toolbar": {
+      "add": "",
+      "add-panel": "",
+      "mark-favorite": "",
+      "open-original": "",
+      "playlist-next": "",
+      "playlist-previous": "",
+      "playlist-stop": "",
+      "refresh": "",
+      "save": "",
+      "settings": "",
+      "share": "",
+      "unmark-favorite": ""
+    }
+  },
+  "datasource-onboarding": {
+    "contact-admin": "",
+    "explanation": "",
+    "new-dashboard": "",
+    "preferred": "",
+    "sampleData": "",
+    "viewAll": "",
+    "welcome": ""
+  },
+  "folder-picker": {
+    "loading": ""
+  },
+  "grafana-ui": {
+    "segment-async": {
+      "error": "",
+      "loading": "",
+      "no-options": ""
+    }
+  },
+  "library-panel": {
+    "add-modal": {
+      "cancel": "",
+      "create": "",
+      "error": "",
+      "folder": "",
+      "folder-description": "",
+      "name": ""
+    },
+    "add-widget": {
+      "title": ""
+    }
+  },
+  "library-panels": {
+    "save": {
+      "error": "",
+      "success": ""
+    }
+  },
+  "nav": {
+    "admin": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting-admin": {
+      "title": ""
+    },
+    "alerting-am-routes": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting-channels": {
+      "title": ""
+    },
+    "alerting-groups": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting-home": {
+      "title": ""
+    },
+    "alerting-legacy": {
+      "title": ""
+    },
+    "alerting-list": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting-receivers": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting-silences": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerts-and-incidents": {
+      "subtitle": "",
+      "title": ""
+    },
+    "api-keys": {
+      "subtitle": "",
+      "title": ""
+    },
+    "apps": {
+      "subtitle": "",
+      "title": ""
+    },
+    "config": {
+      "title": ""
+    },
+    "correlations": {
+      "subtitle": "",
+      "title": ""
+    },
+    "create": {
+      "title": ""
+    },
+    "create-alert": {
+      "title": ""
+    },
+    "create-dashboard": {
+      "title": ""
+    },
+    "create-folder": {
+      "title": ""
+    },
+    "create-import": {
+      "title": ""
+    },
+    "dashboards": {
+      "subtitle": "",
+      "title": ""
+    },
+    "datasources": {
+      "subtitle": "",
+      "title": ""
+    },
+    "explore": {
+      "title": ""
+    },
+    "global-orgs": {
+      "subtitle": "",
+      "title": ""
+    },
+    "global-users": {
+      "subtitle": "",
+      "title": ""
+    },
+    "help": {
+      "title": ""
+    },
+    "help/community": "",
+    "help/documentation": "",
+    "help/keyboard-shortcuts": "",
+    "help/support": "",
+    "home": {
+      "title": ""
+    },
+    "library-panels": {
+      "subtitle": "",
+      "title": ""
+    },
+    "manage-folder": {
+      "subtitle": ""
+    },
+    "monitoring": {
+      "subtitle": "",
+      "title": ""
+    },
+    "new": {
+      "title": ""
+    },
+    "new-dashboard": {
+      "title": ""
+    },
+    "new-folder": {
+      "title": ""
+    },
+    "org-settings": {
+      "subtitle": "",
+      "title": ""
+    },
+    "playlists": {
+      "subtitle": "",
+      "title": ""
+    },
+    "plugins": {
+      "subtitle": "",
+      "title": ""
+    },
+    "profile/notifications": {
+      "title": ""
+    },
+    "profile/password": {
+      "title": ""
+    },
+    "profile/settings": {
+      "title": ""
+    },
+    "public": {
+      "title": ""
+    },
+    "scenes": {
+      "title": ""
+    },
+    "search": {
+      "placeholderCommandPalette": ""
+    },
+    "search-dashboards": {
+      "title": ""
+    },
+    "server-settings": {
+      "subtitle": "",
+      "title": ""
+    },
+    "service-accounts": {
+      "subtitle": "",
+      "title": ""
+    },
+    "sign-out": {
+      "title": ""
+    },
+    "snapshots": {
+      "subtitle": "",
+      "title": ""
+    },
+    "starred": {
+      "title": ""
+    },
+    "starred-empty": {
+      "title": ""
+    },
+    "storage": {
+      "subtitle": "",
+      "title": ""
+    },
+    "support-bundles": {
+      "subtitle": "",
+      "title": ""
+    },
+    "teams": {
+      "subtitle": "",
+      "title": ""
+    },
+    "upgrading": {
+      "title": ""
+    },
+    "users": {
+      "subtitle": "",
+      "title": ""
+    }
+  },
+  "navigation": {
+    "kiosk": {
+      "tv-alert": ""
+    },
+    "toolbar": {
+      "enable-kiosk": "",
+      "toggle-menu": "",
+      "toggle-search-bar": ""
+    }
+  },
+  "news": {
+    "title": ""
+  },
+  "notifications": {
+    "starred-dashboard": "",
+    "unstarred-dashboard": ""
+  },
+  "panel": {
+    "header-menu": {
+      "copy": "",
+      "create-library-panel": "",
+      "duplicate": "",
+      "edit": "",
+      "explore": "",
+      "get-help": "",
+      "hide-legend": "",
+      "inspect": "",
+      "inspect-data": "",
+      "inspect-json": "",
+      "more": "",
+      "query": "",
+      "remove": "",
+      "share": "",
+      "show-legend": "",
+      "unlink-library-panel": "",
+      "view": ""
+    }
+  },
+  "refresh-picker": {
+    "aria-label": {
+      "choose-interval": "",
+      "duration-selected": ""
+    },
+    "live-option": {
+      "aria-label": "",
+      "label": ""
+    },
+    "off-option": {
+      "aria-label": "",
+      "label": ""
+    },
+    "select-button": {
+      "auto-refresh": ""
+    }
+  },
+  "search": {
+    "actions": {
+      "include-panels": "",
+      "remove-datasource-filter": "",
+      "sort-placeholder": "",
+      "starred": "",
+      "view-as-folders": "",
+      "view-as-list": ""
+    },
+    "dashboard-actions": {
+      "import": "",
+      "new": "",
+      "new-dashboard": "",
+      "new-folder": ""
+    },
+    "folder-view": {
+      "go-to-folder": "",
+      "select-folder": ""
+    },
+    "result-kind": {
+      "dashboard": "",
+      "folder": "",
+      "panel": ""
+    },
+    "results-table": {
+      "datasource-header": "",
+      "location-header": "",
+      "name-header": "",
+      "tags-header": "",
+      "type-dashboard": "",
+      "type-folder": "",
+      "type-header": ""
+    },
+    "search-input": {
+      "include-panels-placeholder": "",
+      "placeholder": ""
+    }
+  },
+  "share-modal": {
+    "dashboard": {
+      "title": ""
+    },
+    "embed": {
+      "copy": "",
+      "html": "",
+      "html-description": "",
+      "info": "",
+      "time-range": "",
+      "time-range-description": ""
+    },
+    "export": {
+      "cancel-button": "",
+      "info-text": "",
+      "save-button": "",
+      "share-default-label": "",
+      "share-externally-label": "",
+      "view-button": ""
+    },
+    "library": {
+      "info": ""
+    },
+    "link": {
+      "copy-link-button": "",
+      "info-text": "",
+      "link-url": "",
+      "render-alert": "",
+      "render-instructions": "",
+      "rendered-image": "",
+      "save-alert": "",
+      "save-dashboard": "",
+      "shorten-url": "",
+      "time-range-description": "",
+      "time-range-label": ""
+    },
+    "panel": {
+      "title": ""
+    },
+    "snapshot": {
+      "cancel-button": "",
+      "copy-link-button": "",
+      "delete-button": "",
+      "deleted-message": "",
+      "expire": "",
+      "expire-day": "",
+      "expire-hour": "",
+      "expire-never": "",
+      "expire-week": "",
+      "info-text-1": "",
+      "info-text-2": "",
+      "local-button": "",
+      "mistake-message": "",
+      "name": "",
+      "timeout": "",
+      "timeout-description": "",
+      "url-label": ""
+    },
+    "tab-title": {
+      "embed": "",
+      "export": "",
+      "library-panel": "",
+      "link": "",
+      "snapshot": ""
+    },
+    "theme-picker": {
+      "current": "",
+      "dark": "",
+      "field-name": "",
+      "light": ""
+    },
+    "view-json": {
+      "copy-button": ""
+    }
+  },
+  "shared": {
+    "preferences": {
+      "theme": {
+        "dark-label": "",
+        "light-label": "",
+        "system-label": ""
+      }
+    }
+  },
+  "shared-dashboard": {
+    "fields": {
+      "timezone-label": ""
+    }
+  },
+  "shared-preferences": {
+    "fields": {
+      "home-dashboard-label": "",
+      "home-dashboard-placeholder": "",
+      "locale-label": "",
+      "locale-placeholder": "",
+      "theme-label": "",
+      "week-start-label": ""
+    },
+    "theme": {
+      "default-label": ""
+    },
+    "title": ""
+  },
+  "tag-filter": {
+    "loading": "",
+    "no-tags": "",
+    "placeholder": ""
+  },
+  "time-picker": {
+    "absolute": {
+      "recent-title": "",
+      "title": ""
+    },
+    "calendar": {
+      "apply-button": "",
+      "cancel-button": "",
+      "select-time": ""
+    },
+    "content": {
+      "empty-recent-list": "",
+      "filter-placeholder": ""
+    },
+    "footer": {
+      "change-settings-button": "",
+      "fiscal-year-option": "",
+      "fiscal-year-start": "",
+      "time-zone-option": "",
+      "time-zone-selection": ""
+    },
+    "range-content": {
+      "apply-button": "",
+      "default-error": "",
+      "fiscal-year": "",
+      "from-input": "",
+      "range-error": "",
+      "to-input": ""
+    },
+    "range-picker": {
+      "backwards-time-aria-label": "",
+      "current-time-selected": "",
+      "forwards-time-aria-label": "",
+      "to": "",
+      "zoom-out-button": "",
+      "zoom-out-tooltip": ""
+    },
+    "time-range": {
+      "aria-role": "",
+      "default-title": "",
+      "example-title": "",
+      "specify": ""
+    },
+    "zone": {
+      "select-aria-label": "",
+      "select-search-input": ""
+    }
+  },
+  "user-orgs": {
+    "current-org-button": "",
+    "name-column": "",
+    "role-column": "",
+    "select-org-button": "",
+    "title": ""
+  },
+  "user-profile": {
+    "fields": {
+      "email-error": "",
+      "email-label": "",
+      "name-error": "",
+      "name-label": "",
+      "username-label": ""
+    }
+  },
+  "user-session": {
+    "browser-column": "",
+    "created-at-column": "",
+    "ip-column": "",
+    "revoke": "",
+    "seen-at-column": ""
+  },
+  "user-sessions": {
+    "loading": ""
+  },
+  "variable": {
+    "adhoc": {
+      "placeholder": ""
+    },
+    "dropdown": {
+      "placeholder": ""
+    },
+    "picker": {
+      "link-all": "",
+      "option-all": "",
+      "option-selected-values": "",
+      "option-tooltip": ""
+    },
+    "textbox": {
+      "placeholder": ""
+    }
+  }
+}

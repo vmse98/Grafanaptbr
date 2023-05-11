@@ -518,6 +518,15 @@
       "copy-button": "In Zwischenablage kopieren"
     }
   },
+  "shared": {
+    "preferences": {
+      "theme": {
+        "dark-label": "",
+        "light-label": "",
+        "system-label": ""
+      }
+    }
+  },
   "shared-dashboard": {
     "fields": {
       "timezone-label": "Zeitzone"
@@ -533,10 +542,7 @@
       "week-start-label": "Wochenbeginn"
     },
     "theme": {
-      "dark-label": "Dunkel",
-      "default-label": "Standard",
-      "light-label": "Hell",
-      "system-label": "System"
+      "default-label": "Standard"
     },
     "title": "Einstellungen"
   },

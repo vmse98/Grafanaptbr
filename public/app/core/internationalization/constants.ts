@@ -1,6 +1,7 @@
 import { ResourceKey } from 'i18next';
 
 export const ENGLISH_US = 'en-US';
+export const BRAZILIAN_PORTUESE = 'pt-BR';
 export const FRENCH_FRANCE = 'fr-FR';
 export const SPANISH_SPAIN = 'es-ES';
 export const GERMAN_GERMANY = 'de-DE';
@@ -31,6 +32,12 @@ export const LANGUAGES: LanguageDefinitions[] = [
     code: FRENCH_FRANCE,
     name: 'Français',
     loader: () => import('../../../locales/fr-FR/grafana.json'),
+  },
+  
+  {
+    code: BRAZILIAN_PORTUESE,
+    name: 'Português',
+    loader: () => import('../../../locales/pt-BR/grafana.json'),
   },
 
   {

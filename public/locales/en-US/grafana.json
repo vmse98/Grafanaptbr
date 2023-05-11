@@ -518,6 +518,15 @@
       "copy-button": "Copy to Clipboard"
     }
   },
+  "shared": {
+    "preferences": {
+      "theme": {
+        "dark-label": "Dark",
+        "light-label": "Light",
+        "system-label": "System preference"
+      }
+    }
+  },
   "shared-dashboard": {
     "fields": {
       "timezone-label": "Timezone"
@@ -529,14 +538,11 @@
       "home-dashboard-placeholder": "Default dashboard",
       "locale-label": "Language",
       "locale-placeholder": "Choose language",
-      "theme-label": "UI Theme",
+      "theme-label": "Interface theme",
       "week-start-label": "Week start"
     },
     "theme": {
-      "dark-label": "Dark",
-      "default-label": "Default",
-      "light-label": "Light",
-      "system-label": "System"
+      "default-label": "Default"
     },
     "title": "Preferences"
   },

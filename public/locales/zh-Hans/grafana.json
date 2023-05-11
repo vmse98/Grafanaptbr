@@ -518,6 +518,15 @@
       "copy-button": "复制到剪贴板"
     }
   },
+  "shared": {
+    "preferences": {
+      "theme": {
+        "dark-label": "",
+        "light-label": "",
+        "system-label": ""
+      }
+    }
+  },
   "shared-dashboard": {
     "fields": {
       "timezone-label": "时区"
@@ -533,10 +542,7 @@
       "week-start-label": "每周开始日"
     },
     "theme": {
-      "dark-label": "深色",
-      "default-label": "默认",
-      "light-label": "浅色",
-      "system-label": "系统"
+      "default-label": "默认"
     },
     "title": "首选项"
   },
