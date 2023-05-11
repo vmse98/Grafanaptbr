@@ -518,6 +518,15 @@
       "copy-button": "Copiar para área de transferência"
     }
   },
+  "shared": {
+    "preferences": {
+      "theme": {
+        "dark-label": "Dark",
+        "light-label": "Light",
+        "system-label": "System preference"
+      }
+    }
+  },
   "shared-dashboard": {
     "fields": {
       "timezone-label": "Fuso horário"
@@ -529,14 +538,11 @@
       "home-dashboard-placeholder": "Painel padrão",
       "locale-label": "Linguagem",
       "locale-placeholder": "Escolha o seu idioma",
-      "theme-label": "Tema da IU",
+      "theme-label": "Interface theme",
       "week-start-label": "início da semana"
     },
     "theme": {
-      "dark-label": "Escuro",
-      "default-label": "Padrão",
-      "light-label": "Claro",
-      "system-label": "Sistema"
+      "default-label": "Padrão"
     },
     "title": "Preferências"
   },
