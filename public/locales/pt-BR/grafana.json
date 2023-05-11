@@ -257,7 +257,7 @@
       "title": "Inicial"
     },
     "library-panels": {
-      "subtitle": "Painéis reutilizáveis \u200b\u200bque podem ser adicionados a vários painéis",
+      "subtitle": "Painéis reutilizáveis ​​que podem ser adicionados a vários painéis",
       "title": "Painéis da biblioteca"
     },
     "manage-folder": {
@@ -518,6 +518,15 @@
       "copy-button": "Copiar para área de transferência"
     }
   },
+  "shared": {
+    "preferences": {
+      "theme": {
+        "dark-label": "Dark",
+        "light-label": "Light",
+        "system-label": "System preference"
+      }
+    }
+  },
   "shared-dashboard": {
     "fields": {
       "timezone-label": "Fuso horário"
@@ -529,14 +538,11 @@
       "home-dashboard-placeholder": "Painel padrão",
       "locale-label": "Linguagem",
       "locale-placeholder": "Escolha o seu idioma",
-      "theme-label": "Tema da IU",
+      "theme-label": "Interface theme",
       "week-start-label": "início da semana"
     },
     "theme": {
-      "dark-label": "Escuro",
-      "default-label": "Padrão",
-      "light-label": "Claro",
-      "system-label": "Sistema"
+      "default-label": "Padrão"
     },
     "title": "Preferências"
   },
@@ -547,7 +553,7 @@
   },
   "time-picker": {
     "absolute": {
-      "recent-title": "Intervalos absolutos usados \u200b\u200brecentemente",
+      "recent-title": "Intervalos absolutos usados ​​recentemente",
       "title": "Intervalo de tempo absoluto"
     },
     "calendar": {
@@ -556,7 +562,7 @@
       "select-time": "Selecione um intervalo de tempo"
     },
     "content": {
-      "empty-recent-list": "<0><0>Parece que você não usou este seletor de tempo antes. Assim que você inserir alguns intervalos de tempo, os intervalos usados \u200b\u200brecentemente aparecerão aqui.</0></0><1><0>Leia a documentação</0><1> para saber mais sobre como inserir um horário personalizado intervalos.</1></1>",
+      "empty-recent-list": "<0><0>Parece que você não usou este seletor de tempo antes. Assim que você inserir alguns intervalos de tempo, os intervalos usados ​​recentemente aparecerão aqui.</0></0><1><0>Leia a documentação</0><1> para saber mais sobre como inserir um horário personalizado intervalos.</1></1>",
       "filter-placeholder": "Pesquisar intervalos rápidos"
     },
     "footer": {
